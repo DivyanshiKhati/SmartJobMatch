@@ -1,0 +1,9 @@
+id,title,company,skills,location,experience,salary,type
+1,Python Backend Intern,TechNova,Python;SQL;FastAPI;PostgreSQL,Remote,0,20000,Internship
+2,Java Developer Intern,CodeWorks,Java;OOP;SQL;Spring Boot,Noida,0,15000,Internship
+3,Data Analyst Intern,DataVision,Python;SQL;Excel;Power BI,Bangalore,0,18000,Internship
+4,Machine Learning Intern,AI Labs,Python;Machine Learning;Pandas;Scikit-learn,Remote,1,25000,Internship
+5,Frontend Developer Intern,WebCraft,HTML;CSS;JavaScript;React,Lucknow,0,12000,Internship
+6,Backend Developer,CloudTech,Python;Docker;PostgreSQL;Redis,Noida,2,45000,Full-time
+7,AI Engineer Intern,FutureAI,Python;LLM;RAG;LangChain,Remote,0,30000,Internship
+8,SQL Developer Intern,DB Solutions,SQL;MySQL;PostgreSQL;Database Design,Gurugram,0,16000,Internship
